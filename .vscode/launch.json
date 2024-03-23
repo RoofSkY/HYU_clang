@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/roofsky/Desktop/DEV/HYU_clang/3_16",
-      "program": "c:/Users/roofsky/Desktop/DEV/HYU_clang/3_16/build/Debug/outDebug",
+      "cwd": "c:/Users/roofsky/Desktop/DEV/HYU_clang/3_23",
+      "program": "c:/Users/roofsky/Desktop/DEV/HYU_clang/3_23/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
